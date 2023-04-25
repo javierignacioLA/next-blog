@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@/*proyecto2": ["./src/*"]
+    }
+  }
+}
